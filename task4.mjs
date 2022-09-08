@@ -1,4 +1,4 @@
-import fetch from 'node-fetch';
+import fetch from "node-fetch";
 // posts = async () => {
 //   try {
 //     let response = await fetch("https://jsonplaceholder.typicode.com/users");
