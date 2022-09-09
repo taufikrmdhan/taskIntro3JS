@@ -58,7 +58,7 @@ const cekHariKerja = (day) => {
     }, 3000);
   });
 }
-getData = async () => {
+const getData = async () => {
   try{
     let result = await cekHariKerja("sabtu");
     console.log(result);
